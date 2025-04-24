@@ -48,11 +48,9 @@ A clean and modular Laravel 12 application where users can register, manage thei
 
 ## 🛠️ Installation
 
-1.  **Clone the repository:**
-    *(Replace `your-username/skillshub.git` with the actual repository URL)*
+1.  **Clone the repository:**    
     ```bash
-    git clone https://github.com/your-username/skillshub.git
-    cd skillshub
+    git clone https://github.com/Web-Dev-Kombee/Clean-Architecture-Laravel.git    
     ```
 
 2.  **Install PHP Dependencies:**
@@ -193,12 +191,3 @@ CLEAN_ARCHITECT/
 
 - Only authenticated users can manage their profiles.
 - Profile is private and user-specific.
-
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-
-This project is open-sourced under the MIT license.
